@@ -1,2 +1,2 @@
 # Online-Marketplace-Backend
-This is a practice project that is currently under development.
+This was a practice project thanks to which I learned more about Python and API development.
